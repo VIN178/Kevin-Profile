@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kevin%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Explorer&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0077FF,100:001D3D&height=220&section=header&text=Kevin%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Explorer&descAlignY=60" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">🚀 Front end | Web Designer | AI Explorer</h3>
@@ -96,4 +96,4 @@ Welcome back, Kevin...
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,50:00C6FF,100:001233:2C5364&height=120&section=footer"/>
